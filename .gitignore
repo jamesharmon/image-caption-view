@@ -16,9 +16,12 @@ gen/
 local.properties
 
 # Eclipse project files
-.classpath
-.project
+#.classpath
+#.project
 
 .metadata
 
 .DS_Store
+
+Chapter1-MyView/
+build/

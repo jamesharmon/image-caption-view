@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Attributes for ImageCaptionView -->
+    <declare-styleable name="ImageCaptionView">
+        <!-- Image caption -->
+        <attr name="caption" format="string" />
+        <!-- Image description -->
+        <attr name="description" format="string" />
+        <!-- Image source (resource id) -->
+        <attr name="image" format="integer" />
+    </declare-styleable>
+
+</resources>
